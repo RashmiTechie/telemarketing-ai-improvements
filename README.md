@@ -138,4 +138,4 @@ The best Support Vector Machine Model is more than 20 times slower than the Deci
 <p align="center"><img src="https://github.com/RashmiTechie/telemarketing-ai-improvements/blob/main/images/knn_pred_proba.png" width=600></p>
 
 ### Code
-[Jupyter Notebook](https://github.com/RashmiTechie/telemarketing-ai-improvements/blob/main/telemarketing.ipynb)
+[Jupyter Notebook](https://github.com/RashmiTechie/telemarketing-ai-improvements/blob/main/telemarketingAI.ipynb)
